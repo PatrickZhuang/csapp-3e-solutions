@@ -54,3 +54,4 @@ dkms.conf
 
 # VS Code 
 *.code-workspace
+remark.txt
